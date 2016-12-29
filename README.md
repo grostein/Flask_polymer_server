@@ -1,3 +1,3 @@
-# \<flask_polymer_server\>
-A little Server I use to start my Polymer Project
+# \Flask Polymer Server\
+A little Server I use for my Polymer Project
 (use only the server.py file)
