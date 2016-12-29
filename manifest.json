@@ -1,0 +1,6 @@
+{
+  "name": "flask_polymer_server",
+  "short_name": "flask_polymer_server",
+  "start_url": "/",
+  "display": "standalone"
+}
